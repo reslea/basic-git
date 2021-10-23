@@ -1,0 +1,7 @@
+﻿namespace BasicGit
+{
+    class Person
+    {
+        
+    }
+}
