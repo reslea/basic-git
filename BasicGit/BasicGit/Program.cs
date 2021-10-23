@@ -4,8 +4,9 @@ namespace BasicGit
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            // some comment
             var person = new Person();
             Console.WriteLine(person);
         }
