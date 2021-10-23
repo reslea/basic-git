@@ -6,6 +6,7 @@ namespace BasicGit
     {
         static void Main()
         {
+            // some comment
             var person = new Person();
             Console.WriteLine(person);
         }
